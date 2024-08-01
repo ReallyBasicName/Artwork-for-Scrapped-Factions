@@ -1,1 +1,1 @@
-# This is for a Chinese facion I made.
+# This is for a Chinese faction I made.
